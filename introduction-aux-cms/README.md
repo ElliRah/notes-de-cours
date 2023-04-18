@@ -31,7 +31,8 @@
 
 ## Quelques exemples
 
--   [Wordpress](https://wordpress.org)
+-   [Wordpress.org](https://wordpress.org)
+-   [Wordpress.com](https://wordpress.com)
 -   [Ghost](https://ghost.org)
 -   [Drupal](https://www.drupal.org)
 -   [Sanity](https://www.sanity.io)
@@ -42,8 +43,11 @@
 -   [Wix](https://www.wix.com)
 -   [Squarespace](https://www.squarespace.com)
 -   [Cargo](https://cargo.site)
+-   [Shopify](https://www.shopify.com)
 
 ## Ressources
 
 -   https://fr.wikipedia.org/wiki/Système_de_gestion_de_contenu
 -   https://www.oracle.com/ca-en/content-management/what-is-cms/
+-   https://open.nytimes.com/scoop-a-glimpse-into-the-nytimes-cms-ae54b266d018
+-   https://www.maxkohler.com/posts/2021-11-20-whats-a-cms/
