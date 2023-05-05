@@ -14,10 +14,24 @@ git status
 
 ### Rapatrier et intégrer les changements
 
-Si votre dépôt est en retard avec le dépôt distant GitHub, il faut d'abord rapatrier et intégrer les changements à notre dépôt local :
+Si votre dépôt est en retard avec le dépôt distant GitHub, il faut rapatrier et intégrer les changements à notre dépôt local.
+
+Toutefois, si votre répertoire de travail est « sale » (c'est-à-dire qu'contient des changements non enregistrés), alors il est nécessaire de remiser ces changements locaux avant d'intégrer les changements du dépôt distant :
+
+```sh
+git stash
+```
+
+Maintenant que votre dépôt local est « propre », nous pouvons rapatrier et intégrer les changements du dépôt distant :
 
 ```sh
 git pull
+```
+
+Enfin, n'oubliez pas de restaurer les changements locaux remisés précédemment :
+
+```sh
+git stash pop
 ```
 
 ### Résoudre les conflits de fusion
