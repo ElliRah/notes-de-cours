@@ -17,7 +17,7 @@
 # indentation similaire à celle utilisée en Python pour déterminer la structure
 # et la hiérarchie des données.
 
-###############################
+####################
 # TABLEAU ASSOCIATIF
 #
 # Les tableaux sont de formes `clé: valeur`, à raison d'un couple par ligne :
@@ -27,7 +27,7 @@ nom: Jean
 nomFamille: Starobinski
 occupation: Philosophe
 
-##################
+#######
 # LISTE
 #
 # Les éléments de listes sont dénotés par le tiret (-), suivi d'une espace, à
@@ -38,7 +38,7 @@ occupation: Philosophe
 - Javascript
 - Python
 
-#################################
+#####################
 # PLUSIEURS DOCUMENTS
 #
 # Un fichier peut comprendre plusieurs documents, chacun séparé par trois tirets
